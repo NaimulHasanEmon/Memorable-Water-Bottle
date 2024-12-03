@@ -1,0 +1,15 @@
+.bottle {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 3px solid rebeccapurple;
+    border-radius: 16px;
+}
+
+.bottle-img {
+    width: 200px;
+    border-radius: 16px;
+}
+
+.purchase {
+    background-color: rgb(15, 171, 46);
+}
